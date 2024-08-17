@@ -19,7 +19,7 @@ Este proyecto consiste en dos microservicios desarrollados con NestJS:
     cd <directorio-del-repositorio>
 ```
  ### Crear el archivo `.env`:
-En la raíz de ambos microservicios, crea un archivo `.env` con el siguiente contenido:
+En la raíz de ambos microservicios y en la raiz de este proyecto general crea un archivo `.env` con el siguiente contenido:
 
 ```bash
 JWT_SECRET='alesso-quesso'
